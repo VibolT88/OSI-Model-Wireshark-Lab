@@ -1,5 +1,6 @@
 # OSI-Model-Wireshark-Lab
-Packet capture lab demonstrating OSI layers using Wireshark
+A security-focused packet analysis lab demonstrating how normal network communication behaves across OSI layers using Wireshark.
+
 
 ## 🛡️ Project Overview
 
@@ -37,5 +38,14 @@ Analyzed GET requests from Python HTTP server.
 - How TCP establishes reliable sessions
 - How application traffic depends on lower OSI layers
 
+---
+
+## 🛡️ Security Perspective
+*(Reflection coming soon)*
+
+---
+
+## 🧠 Reflection & Future Improvements
+*(Personal learning notes will be added after completing the lab walkthrough)*
 
 
