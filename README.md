@@ -48,7 +48,10 @@ Analyzed GET requests from Python HTTP server.
 ---
 
 ## 🛡️ Security Perspective
-*(Reflection coming soon)*
+From a security perspective, this project helped me understand the importance of establishing a baseline of normal network behavior. By recognizing how ARP, ICMP, TCP, and HTTP traffic normally appear in Wireshark, I can better identify abnormal patterns that may indicate issues such as ARP spoofing, unauthorized scanning, or suspicious network impersonation.
+
+Instead of only learning theory, visually observing the packet flow strengthened my understanding of how analysts investigate traffic and validate communication between systems. This project also helped me think more critically about how layered communication works and why security monitoring requires visibility across multiple protocols.
+
 
 ---
 
